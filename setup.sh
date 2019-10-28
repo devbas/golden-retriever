@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -e
 
 python -c 'import sys; print(sys.version_info[:])'
